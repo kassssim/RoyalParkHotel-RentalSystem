@@ -120,8 +120,7 @@ The report covers the problem analysis, IPO chart, pseudocode, flow chart, scree
   <img src="images/harith.jpg" width="140" alt="Harith">
 -->
 
-| Harith | Hakim | Haiman | Iz |
+| Muzh | Hakim | Haiman | Iz |
 |:------:|:-----:|:------:|:--:|
-| <!-- selfie --> | <!-- selfie --> | <!-- selfie --> | <!-- selfie --> |
 
 <!-- Optional group selfie: <img src="images/group.jpg" width="500" alt="ScubaSolver"> -->
